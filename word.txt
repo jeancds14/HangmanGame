@@ -1,0 +1,12 @@
+11
+elevador
+policial
+motorista
+lavrador
+arquiteto
+encanador
+professor
+teste
+oi
+aqui
+nova
